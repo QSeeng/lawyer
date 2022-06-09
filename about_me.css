@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.img {
+    width: 40%;
+    padding: 0;
+    margin: 0;
+    margin-left: 1100px;
+
+    border: 3px solid rgb(169, 4, 4);
+    border-radius: 10px;
+}
+
+
+.icon1 {
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    width: 96px;
+    padding: 0;
+    margin: 0;
+
+
+}
+
+.icon2 {
+    width: 100px;
+    padding: 0;
+    margin: 0;
+}
+
+.icon3 {
+    width: 99px;
+    padding: 0;
+    margin: 0;
+}
+
+.icon4 {
+    width: 100px;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: rgb(164, 145, 37);
+    font-family: Roboto, sans-serif;
+
+}
+
+.text {
+    color: #fdfdfd;
+    padding: 0;
+    margin: 0;
+    font-size: 150%;
+    font-family: Roboto, sans-serif;
+}
+
+.text1 {}
+
+.text2 {}
+
+.text3 {}
+
+.text4 {}
+
+.message {
+    position: absolute;
+    top: 670px;
+    right: 120px;
+}
+
+.dela {
+    position: absolute;
+    top: 1200px;
+    left: 300px;
+}
+
+.krut {
+    position: absolute;
+    top: 900px;
+    left: 700px;
+}
+
+.reviews {
+    position: absolute;
+    bottom: 1300px;
+    left: 700px;
+}
+
+.lower_reviews {
+    position: absolute;
+    bottom: 1000px;
+    left: 500px;
+}
